@@ -4,25 +4,15 @@
 <div align="left">
 
 -------
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkrPdnjs)](https://solved.ac/dlstkRpdnjs/)
-
 ![BBIBBImaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBIBBImaster&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBIBBImaster&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
  
 <br>
 
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkrPdnjs)](https://solved.ac/dlstkRpdnjs/)
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
