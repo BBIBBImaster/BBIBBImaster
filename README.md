@@ -4,8 +4,8 @@
 <div align="left">
 
 -------
-![BBIBBImaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBIBBImaster&private=trueshow_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBIBBImaster&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![BBIBBImaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBIBBImaster&private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBIBBImaster&layout=compact&private=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <br>
