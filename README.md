@@ -1,6 +1,6 @@
 
 ![BBIBBImaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBIBBImaster&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBIBBImaster&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBIBBImaster&layout=compact&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkrPdnjs)](https://solved.ac/dlstkRpdnjs/)
 
