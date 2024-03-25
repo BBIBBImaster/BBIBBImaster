@@ -10,11 +10,11 @@
  
 <br>
 
-## 💻 Solved.ac 
+## 💻  Solved.ac 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkrPdnjs)](https://solved.ac/dlstkRpdnjs/)
 
 
-## 📞 Contact 
+## 📞  Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:4808antjd@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -24,7 +24,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 
+## 🔨  Once I've used 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
