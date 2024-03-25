@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkrPdnjs)](https://solved.ac/dlstkRpdnjs/)
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBIBBImaster&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBIBBImaster&layout=demo&theme=dark)
