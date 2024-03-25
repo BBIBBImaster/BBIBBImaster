@@ -19,7 +19,7 @@
     <a href="mailto:4808antjd@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
+    <a href="https://open.kakao.com/o/se22ieig">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div><br>
