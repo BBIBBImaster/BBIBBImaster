@@ -12,17 +12,6 @@
 ## 💻  Solved.ac 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstkrPdnjs)](https://solved.ac/dlstkRpdnjs/)
 
-
-## 📞  Contact 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:4808antjd@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/se22ieig">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-</div><br>
-    
 ## 🔨  Once I've used 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
@@ -32,5 +21,15 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=round-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Styled_components-DB7093?style=round-square&logo=styledcomponents&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=round-square&logo=tailwindcss&logoColor=white"/>
+</div><br>
+
+## 📞  Contact 
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:4808antjd@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/se22ieig">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
 </div><br>
 </div>
