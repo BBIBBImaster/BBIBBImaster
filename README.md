@@ -4,7 +4,6 @@
 <div align="left">
 
 -------
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <br>
 
@@ -31,4 +30,6 @@
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div><br>
+
+![](./profile-3d-contrib/profilenight-view.svg)
 </div>
