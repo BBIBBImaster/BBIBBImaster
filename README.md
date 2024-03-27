@@ -30,6 +30,6 @@
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 
- ![](./profile-3d-contrib/profilenight-view.svg)
+ ![](./profile-3d-contrib/profile-night-view.svg)
 </div><br>
 </div>
