@@ -29,7 +29,8 @@
     <a href="https://open.kakao.com/o/se22ieig">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-<br>
+<div>
  ![](./profile-3d-contrib/profile-night-view.svg)
+</div>
 </div><br>
 </div>
